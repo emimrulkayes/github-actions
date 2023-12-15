@@ -267,3 +267,14 @@
 [2023-12-15 02:44:24Z INFO JobNotification] Entering JobStarted Notification
 [2023-12-15 02:44:24Z INFO JobNotification] Entering StartMonitor
 [2023-12-15 02:45:25Z INFO JobDispatcher] Successfully renew job request 7, job is valid till 12/15/2023 2:55:38 AM
+[2023-12-15 02:46:26Z INFO JobDispatcher] Successfully renew job request 7, job is valid till 12/15/2023 2:56:39 AM
+[2023-12-15 02:46:34Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-15 02:46:34Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-15 02:46:34Z INFO ProcessInvokerWrapper] Finished process 11204 with exit code 102, and elapsed time 00:02:09.5937413.
+[2023-12-15 02:46:34Z INFO JobDispatcher] Worker finished for job 6621f301-ad18-5d46-97dd-869f4cb20c65. Code: 102
+[2023-12-15 02:46:34Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Failed
+[2023-12-15 02:46:34Z INFO Terminal] WRITE LINE: 2023-12-15 02:46:34Z: Job build (18.x) completed with result: Failed
+[2023-12-15 02:46:34Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 02:46:34Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 7.
+[2023-12-15 02:46:34Z INFO JobNotification] Entering JobCompleted Notification
+[2023-12-15 02:46:34Z INFO JobNotification] Entering EndMonitor
