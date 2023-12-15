@@ -1,0 +1,241 @@
+[2023-12-15 00:44:08Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO HostContext] Well known config file 'Credentials': 'C:\projects\github-actions\actions-runner\.credentials'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO HostContext] Well known config file 'Runner': 'C:\projects\github-actions\actions-runner\.runner'
+[2023-12-15 00:44:08Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-12-15 00:44:08Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22000.
+[2023-12-15 00:44:08Z INFO Listener] Version: 2.311.0
+[2023-12-15 00:44:08Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-12-15 00:44:08Z INFO Listener] Culture: en-US
+[2023-12-15 00:44:08Z INFO Listener] UI Culture: en-US
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO Listener] Validating directory permissions for: 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO CommandLineParser] Parse
+[2023-12-15 00:44:08Z INFO CommandLineParser] Parsing 1 args
+[2023-12-15 00:44:08Z INFO CommandLineParser] parsing argument
+[2023-12-15 00:44:08Z INFO CommandLineParser] HasArgs: False
+[2023-12-15 00:44:08Z INFO CommandLineParser] Adding Command: run
+[2023-12-15 00:44:08Z INFO Listener] Arguments parsed
+[2023-12-15 00:44:08Z INFO Runner] ExecuteCommand
+[2023-12-15 00:44:08Z INFO ConfigurationStore] currentAssemblyLocation: C:\projects\github-actions\actions-runner\bin\Runner.Listener.dll
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO ConfigurationStore] binPath: C:\projects\github-actions\actions-runner\bin
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO ConfigurationStore] RootFolder: C:\projects\github-actions\actions-runner
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO HostContext] Well known config file 'Runner': 'C:\projects\github-actions\actions-runner\.runner'
+[2023-12-15 00:44:08Z INFO ConfigurationStore] ConfigFilePath: C:\projects\github-actions\actions-runner\.runner
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO HostContext] Well known config file 'Credentials': 'C:\projects\github-actions\actions-runner\.credentials'
+[2023-12-15 00:44:08Z INFO ConfigurationStore] CredFilePath: C:\projects\github-actions\actions-runner\.credentials
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\projects\github-actions\actions-runner\.credentials_migrated'
+[2023-12-15 00:44:08Z INFO ConfigurationStore] MigratedCredFilePath: C:\projects\github-actions\actions-runner\.credentials_migrated
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:08Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:08Z INFO HostContext] Well known config file 'Service': 'C:\projects\github-actions\actions-runner\.service'
+[2023-12-15 00:44:08Z INFO ConfigurationStore] ServiceConfigFilePath: C:\projects\github-actions\actions-runner\.service
+[2023-12-15 00:44:08Z INFO CommandSettings] Flag 'help': 'False'
+[2023-12-15 00:44:08Z INFO CommandSettings] Flag 'version': 'False'
+[2023-12-15 00:44:08Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-12-15 00:44:08Z INFO CommandSettings] Flag 'check': 'False'
+[2023-12-15 00:44:08Z INFO CommandSettings] Command 'configure': 'False'
+[2023-12-15 00:44:08Z INFO CommandSettings] Command 'remove': 'False'
+[2023-12-15 00:44:08Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-12-15 00:44:08Z INFO ConfigurationManager] LoadSettings
+[2023-12-15 00:44:08Z INFO ConfigurationStore] IsConfigured()
+[2023-12-15 00:44:08Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-15 00:44:08Z INFO ConfigurationManager] Is configured: True
+[2023-12-15 00:44:08Z INFO ConfigurationStore] Read setting file: 314 chars
+[2023-12-15 00:44:08Z INFO ConfigurationManager] Settings Loaded
+[2023-12-15 00:44:08Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-12-15 00:44:08Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-12-15 00:44:08Z INFO CommandSettings] Command 'run': 'True'
+[2023-12-15 00:44:08Z INFO ConfigurationStore] IsConfigured()
+[2023-12-15 00:44:08Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-15 00:44:08Z INFO ConfigurationManager] Is configured: True
+[2023-12-15 00:44:08Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-12-15 00:44:08Z INFO Runner] Set runner startup type - Manual
+[2023-12-15 00:44:08Z INFO CommandSettings] Flag 'once': 'False'
+[2023-12-15 00:44:08Z INFO CommandSettings] Flag 'once': 'False'
+[2023-12-15 00:44:08Z INFO Runner] RunAsync
+[2023-12-15 00:44:08Z INFO ConfigurationManager] LoadSettings
+[2023-12-15 00:44:08Z INFO ConfigurationStore] IsConfigured()
+[2023-12-15 00:44:08Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-15 00:44:08Z INFO ConfigurationManager] Is configured: True
+[2023-12-15 00:44:08Z INFO ConfigurationManager] Settings Loaded
+[2023-12-15 00:44:09Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "EMIMRULKAYES",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus11.actions.githubusercontent.com/y1FT86VY5Sb27I64IaNciOD2APWIA1L9Hq70IhzF1SEfu8Wu20/",
+  "GitHubUrl": "https://github.com/emimrulkayes/github-actions",
+  "WorkFolder": "_work"
+}
+[2023-12-15 00:44:09Z INFO MessageListener] Loading Credentials
+[2023-12-15 00:44:09Z INFO ConfigurationStore] HasCredentials()
+[2023-12-15 00:44:09Z INFO ConfigurationStore] stored True
+[2023-12-15 00:44:09Z INFO CredentialManager] GetCredentialProvider
+[2023-12-15 00:44:09Z INFO CredentialManager] Creating type OAuth
+[2023-12-15 00:44:09Z INFO CredentialManager] Creating credential type: OAuth
+[2023-12-15 00:44:09Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:09Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 00:44:09Z INFO HostContext] Well known config file 'RSACredentials': 'C:\projects\github-actions\actions-runner\.credentials_rsaparams'
+[2023-12-15 00:44:09Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 00:44:09Z INFO MessageListener] Attempt to create session.
+[2023-12-15 00:44:09Z INFO MessageListener] Connecting to the Runner Server...
+[2023-12-15 00:44:09Z INFO RunnerServer] EstablishVssConnection
+[2023-12-15 00:44:09Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-12-15 00:44:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-15 00:44:09Z INFO RunnerServer] EstablishVssConnection
+[2023-12-15 00:44:09Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-15 00:44:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-15 00:44:09Z INFO RunnerServer] EstablishVssConnection
+[2023-12-15 00:44:09Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-15 00:44:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-15 00:44:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-15 00:44:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-15 00:44:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-15 00:44:10Z INFO MessageListener] VssConnection created
+[2023-12-15 00:44:10Z INFO Terminal] WRITE LINE: 
+[2023-12-15 00:44:10Z INFO Terminal] WRITE LINE: 
+[2023-12-15 00:44:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 00:44:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 00:44:11Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-12-15 00:44:11Z INFO MessageListener] Session created.
+[2023-12-15 00:44:11Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2023-12-15 00:44:11Z INFO Terminal] WRITE LINE: 2023-12-15 00:44:11Z: Listening for Jobs
+[2023-12-15 00:44:11Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-12-15 00:44:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 00:44:15Z INFO MessageListener] Message '1' received from session '9dcf5205-99bf-44ef-98c7-d8d3acbc6b00'.
+[2023-12-15 00:44:15Z INFO Runner] Received job message of length 24213 from service, with hash '43c363a089a8f9fc8a3e13fd73d1a453b43736a06b0a3cdbc2c3f90e94f0cc95'
+[2023-12-15 00:44:15Z INFO JobDispatcher] Job request 1 for plan cdbf564f-c247-4831-b9b1-4d7607841e21 job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2023-12-15 00:44:15Z INFO JobDispatcher] Pull OrchestrationId cdbf564f-c247-4831-b9b1-4d7607841e21.build._18_x from JWT claims
+[2023-12-15 00:44:15Z INFO Terminal] WRITE LINE: 2023-12-15 00:44:15Z: Running job: build (18.x)
+[2023-12-15 00:44:15Z INFO JobDispatcher] Start renew job request 1 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 00:44:15Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 12/15/2023 12:54:28 AM
+[2023-12-15 00:44:15Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper] Starting process:
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   File name: 'C:\projects\github-actions\actions-runner\bin\Runner.Worker.exe'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2212 2224'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   Working directory: 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-12-15 00:44:15Z INFO ProcessInvokerWrapper] Process started with process id 18508, waiting for process exit.
+[2023-12-15 00:44:15Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 00:44:15Z INFO ProcessChannel] Sending message of length 24213, with hash '43c363a089a8f9fc8a3e13fd73d1a453b43736a06b0a3cdbc2c3f90e94f0cc95'
+[2023-12-15 00:44:15Z INFO JobNotification] Entering JobStarted Notification
+[2023-12-15 00:44:15Z INFO JobNotification] Entering StartMonitor
+[2023-12-15 00:45:15Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 12/15/2023 12:55:28 AM
+[2023-12-15 00:46:16Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 12/15/2023 12:56:29 AM
+[2023-12-15 00:47:16Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 12/15/2023 12:57:29 AM
+[2023-12-15 00:47:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-15 00:47:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-15 00:47:25Z INFO ProcessInvokerWrapper] Finished process 18508 with exit code 100, and elapsed time 00:03:09.9131167.
+[2023-12-15 00:47:25Z INFO JobDispatcher] Worker finished for job 6621f301-ad18-5d46-97dd-869f4cb20c65. Code: 100
+[2023-12-15 00:47:25Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Succeeded
+[2023-12-15 00:47:25Z INFO Terminal] WRITE LINE: 2023-12-15 00:47:25Z: Job build (18.x) completed with result: Succeeded
+[2023-12-15 00:47:25Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 00:47:25Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1.
+[2023-12-15 00:47:25Z INFO JobNotification] Entering JobCompleted Notification
+[2023-12-15 00:47:25Z INFO JobNotification] Entering EndMonitor
+[2023-12-15 00:56:54Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 00:56:54Z INFO MessageListener] Message '2' received from session '9dcf5205-99bf-44ef-98c7-d8d3acbc6b00'.
+[2023-12-15 00:56:54Z INFO Runner] Received job message of length 24213 from service, with hash 'bc594717809636631b86313dae07663b4a8be2cc796d64255a58df14152c8166'
+[2023-12-15 00:56:54Z INFO JobDispatcher] Job request 2 for plan 8512e6c1-dca2-40ba-8ab1-f2ffba313793 job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2023-12-15 00:56:54Z INFO JobDispatcher] Pull OrchestrationId 8512e6c1-dca2-40ba-8ab1-f2ffba313793.build._18_x from JWT claims
+[2023-12-15 00:56:54Z INFO JobDispatcher] Job request 6621f301-ad18-5d46-97dd-869f4cb20c65 processed succeed.
+[2023-12-15 00:56:54Z INFO Terminal] WRITE LINE: 2023-12-15 00:56:54Z: Running job: build (18.x)
+[2023-12-15 00:56:54Z INFO JobDispatcher] Start renew job request 2 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 00:56:55Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 12/15/2023 1:07:08 AM
+[2023-12-15 00:56:55Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper] Starting process:
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   File name: 'C:\projects\github-actions\actions-runner\bin\Runner.Worker.exe'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1600 1916'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   Working directory: 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-12-15 00:56:55Z INFO ProcessInvokerWrapper] Process started with process id 16188, waiting for process exit.
+[2023-12-15 00:56:55Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 00:56:55Z INFO ProcessChannel] Sending message of length 24213, with hash 'bc594717809636631b86313dae07663b4a8be2cc796d64255a58df14152c8166'
+[2023-12-15 00:56:55Z INFO JobNotification] Entering JobStarted Notification
+[2023-12-15 00:56:55Z INFO JobNotification] Entering StartMonitor
+[2023-12-15 00:57:55Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 12/15/2023 1:08:08 AM
+[2023-12-15 00:58:55Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 12/15/2023 1:09:08 AM
+[2023-12-15 00:59:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-15 00:59:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-15 00:59:09Z INFO ProcessInvokerWrapper] Finished process 16188 with exit code 100, and elapsed time 00:02:14.6392536.
+[2023-12-15 00:59:09Z INFO JobDispatcher] Worker finished for job 6621f301-ad18-5d46-97dd-869f4cb20c65. Code: 100
+[2023-12-15 00:59:09Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Succeeded
+[2023-12-15 00:59:09Z INFO Terminal] WRITE LINE: 2023-12-15 00:59:09Z: Job build (18.x) completed with result: Succeeded
+[2023-12-15 00:59:09Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 00:59:09Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 2.
+[2023-12-15 00:59:09Z INFO JobNotification] Entering JobCompleted Notification
+[2023-12-15 00:59:09Z INFO JobNotification] Entering EndMonitor
+[2023-12-15 01:02:20Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 01:02:20Z INFO MessageListener] Message '3' received from session '9dcf5205-99bf-44ef-98c7-d8d3acbc6b00'.
+[2023-12-15 01:02:20Z INFO Runner] Received job message of length 24213 from service, with hash '18cb5c705c4f87e901870e2433933f0ba0261d3eedb59ff22d16b403be368ddd'
+[2023-12-15 01:02:20Z INFO JobDispatcher] Job request 3 for plan 07776ee7-59f0-4a81-a9d4-f202f5a47dbe job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2023-12-15 01:02:20Z INFO JobDispatcher] Pull OrchestrationId 07776ee7-59f0-4a81-a9d4-f202f5a47dbe.build._18_x from JWT claims
+[2023-12-15 01:02:20Z INFO JobDispatcher] Job request 6621f301-ad18-5d46-97dd-869f4cb20c65 processed succeed.
+[2023-12-15 01:02:20Z INFO Terminal] WRITE LINE: 2023-12-15 01:02:20Z: Running job: build (18.x)
+[2023-12-15 01:02:20Z INFO JobDispatcher] Start renew job request 3 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 01:02:20Z INFO JobDispatcher] Successfully renew job request 3, job is valid till 12/15/2023 1:12:33 AM
+[2023-12-15 01:02:20Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper] Starting process:
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   File name: 'C:\projects\github-actions\actions-runner\bin\Runner.Worker.exe'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2524 2500'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   Working directory: 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-12-15 01:02:20Z INFO ProcessInvokerWrapper] Process started with process id 10080, waiting for process exit.
+[2023-12-15 01:02:20Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 01:02:20Z INFO ProcessChannel] Sending message of length 24213, with hash '18cb5c705c4f87e901870e2433933f0ba0261d3eedb59ff22d16b403be368ddd'
+[2023-12-15 01:02:21Z INFO JobNotification] Entering JobStarted Notification
+[2023-12-15 01:02:21Z INFO JobNotification] Entering StartMonitor
+[2023-12-15 01:03:21Z INFO JobDispatcher] Successfully renew job request 3, job is valid till 12/15/2023 1:13:34 AM
+[2023-12-15 01:04:21Z INFO JobDispatcher] Successfully renew job request 3, job is valid till 12/15/2023 1:14:34 AM
+[2023-12-15 01:04:35Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-15 01:04:35Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-12-15 01:04:35Z INFO ProcessInvokerWrapper] Finished process 10080 with exit code 100, and elapsed time 00:02:14.4012454.
+[2023-12-15 01:04:35Z INFO JobDispatcher] Worker finished for job 6621f301-ad18-5d46-97dd-869f4cb20c65. Code: 100
+[2023-12-15 01:04:35Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Succeeded
+[2023-12-15 01:04:35Z INFO Terminal] WRITE LINE: 2023-12-15 01:04:35Z: Job build (18.x) completed with result: Succeeded
+[2023-12-15 01:04:35Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2023-12-15 01:04:35Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 3.
+[2023-12-15 01:04:35Z INFO JobNotification] Entering JobCompleted Notification
+[2023-12-15 01:04:35Z INFO JobNotification] Entering EndMonitor
+[2023-12-15 01:04:46Z INFO Terminal] WRITE LINE: Exiting...
+[2023-12-15 01:04:46Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-12-15 01:04:46Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-12-15 01:04:46Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-12-15 01:04:46Z WARN GitHubActionsService] GET request to https://pipelinesghubeus11.actions.githubusercontent.com/y1FT86VY5Sb27I64IaNciOD2APWIA1L9Hq70IhzF1SEfu8Wu20/_apis/distributedtask/pools/1/messages?sessionId=9dcf5205-99bf-44ef-98c7-d8d3acbc6b00&lastMessageId=3&status=Online&runnerVersion=2.311.0&os=Windows&architecture=X64 has been cancelled.
+[2023-12-15 01:04:46Z INFO MessageListener] Get next message has been cancelled.
+[2023-12-15 01:04:46Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-12-15 01:04:46Z INFO JobDispatcher] Ensure WorkerDispatcher for job 6621f301-ad18-5d46-97dd-869f4cb20c65 run to finish, cancel any running job.
+[2023-12-15 01:04:46Z INFO JobDispatcher] Job request 6621f301-ad18-5d46-97dd-869f4cb20c65 processed succeed.
+[2023-12-15 01:04:47Z INFO Listener] Runner execution been cancelled.

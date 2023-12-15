@@ -1,0 +1,129 @@
+[2023-12-15 01:18:06Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO HostContext] Well known config file 'Credentials': 'C:\projects\github-actions\actions-runner\.credentials'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO HostContext] Well known config file 'Runner': 'C:\projects\github-actions\actions-runner\.runner'
+[2023-12-15 01:18:06Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-12-15 01:18:06Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22000.
+[2023-12-15 01:18:06Z INFO Listener] Version: 2.311.0
+[2023-12-15 01:18:06Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-12-15 01:18:06Z INFO Listener] Culture: en-US
+[2023-12-15 01:18:06Z INFO Listener] UI Culture: en-US
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO Listener] Validating directory permissions for: 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO CommandLineParser] Parse
+[2023-12-15 01:18:06Z INFO CommandLineParser] Parsing 1 args
+[2023-12-15 01:18:06Z INFO CommandLineParser] parsing argument
+[2023-12-15 01:18:06Z INFO CommandLineParser] HasArgs: False
+[2023-12-15 01:18:06Z INFO CommandLineParser] Adding Command: run
+[2023-12-15 01:18:06Z INFO Listener] Arguments parsed
+[2023-12-15 01:18:06Z INFO Runner] ExecuteCommand
+[2023-12-15 01:18:06Z INFO ConfigurationStore] currentAssemblyLocation: C:\projects\github-actions\actions-runner\bin\Runner.Listener.dll
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO ConfigurationStore] binPath: C:\projects\github-actions\actions-runner\bin
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO ConfigurationStore] RootFolder: C:\projects\github-actions\actions-runner
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO HostContext] Well known config file 'Runner': 'C:\projects\github-actions\actions-runner\.runner'
+[2023-12-15 01:18:06Z INFO ConfigurationStore] ConfigFilePath: C:\projects\github-actions\actions-runner\.runner
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO HostContext] Well known config file 'Credentials': 'C:\projects\github-actions\actions-runner\.credentials'
+[2023-12-15 01:18:06Z INFO ConfigurationStore] CredFilePath: C:\projects\github-actions\actions-runner\.credentials
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\projects\github-actions\actions-runner\.credentials_migrated'
+[2023-12-15 01:18:06Z INFO ConfigurationStore] MigratedCredFilePath: C:\projects\github-actions\actions-runner\.credentials_migrated
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO HostContext] Well known config file 'Service': 'C:\projects\github-actions\actions-runner\.service'
+[2023-12-15 01:18:06Z INFO ConfigurationStore] ServiceConfigFilePath: C:\projects\github-actions\actions-runner\.service
+[2023-12-15 01:18:06Z INFO CommandSettings] Flag 'help': 'False'
+[2023-12-15 01:18:06Z INFO CommandSettings] Flag 'version': 'False'
+[2023-12-15 01:18:06Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-12-15 01:18:06Z INFO CommandSettings] Flag 'check': 'False'
+[2023-12-15 01:18:06Z INFO CommandSettings] Command 'configure': 'False'
+[2023-12-15 01:18:06Z INFO CommandSettings] Command 'remove': 'False'
+[2023-12-15 01:18:06Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-12-15 01:18:06Z INFO ConfigurationManager] LoadSettings
+[2023-12-15 01:18:06Z INFO ConfigurationStore] IsConfigured()
+[2023-12-15 01:18:06Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-15 01:18:06Z INFO ConfigurationManager] Is configured: True
+[2023-12-15 01:18:06Z INFO ConfigurationStore] Read setting file: 314 chars
+[2023-12-15 01:18:06Z INFO ConfigurationManager] Settings Loaded
+[2023-12-15 01:18:06Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-12-15 01:18:06Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-12-15 01:18:06Z INFO CommandSettings] Command 'run': 'True'
+[2023-12-15 01:18:06Z INFO ConfigurationStore] IsConfigured()
+[2023-12-15 01:18:06Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-15 01:18:06Z INFO ConfigurationManager] Is configured: True
+[2023-12-15 01:18:06Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-12-15 01:18:06Z INFO Runner] Set runner startup type - Manual
+[2023-12-15 01:18:06Z INFO CommandSettings] Flag 'once': 'False'
+[2023-12-15 01:18:06Z INFO CommandSettings] Flag 'once': 'False'
+[2023-12-15 01:18:06Z INFO Runner] RunAsync
+[2023-12-15 01:18:06Z INFO ConfigurationManager] LoadSettings
+[2023-12-15 01:18:06Z INFO ConfigurationStore] IsConfigured()
+[2023-12-15 01:18:06Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-15 01:18:06Z INFO ConfigurationManager] Is configured: True
+[2023-12-15 01:18:06Z INFO ConfigurationManager] Settings Loaded
+[2023-12-15 01:18:06Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "EMIMRULKAYES",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus11.actions.githubusercontent.com/y1FT86VY5Sb27I64IaNciOD2APWIA1L9Hq70IhzF1SEfu8Wu20/",
+  "GitHubUrl": "https://github.com/emimrulkayes/github-actions",
+  "WorkFolder": "_work"
+}
+[2023-12-15 01:18:06Z INFO MessageListener] Loading Credentials
+[2023-12-15 01:18:06Z INFO ConfigurationStore] HasCredentials()
+[2023-12-15 01:18:06Z INFO ConfigurationStore] stored True
+[2023-12-15 01:18:06Z INFO CredentialManager] GetCredentialProvider
+[2023-12-15 01:18:06Z INFO CredentialManager] Creating type OAuth
+[2023-12-15 01:18:06Z INFO CredentialManager] Creating credential type: OAuth
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Bin': 'C:\projects\github-actions\actions-runner\bin'
+[2023-12-15 01:18:06Z INFO HostContext] Well known directory 'Root': 'C:\projects\github-actions\actions-runner'
+[2023-12-15 01:18:06Z INFO HostContext] Well known config file 'RSACredentials': 'C:\projects\github-actions\actions-runner\.credentials_rsaparams'
+[2023-12-15 01:18:06Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 01:18:06Z INFO MessageListener] Attempt to create session.
+[2023-12-15 01:18:06Z INFO MessageListener] Connecting to the Runner Server...
+[2023-12-15 01:18:06Z INFO RunnerServer] EstablishVssConnection
+[2023-12-15 01:18:06Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-12-15 01:18:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-15 01:18:06Z INFO RunnerServer] EstablishVssConnection
+[2023-12-15 01:18:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-15 01:18:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-15 01:18:06Z INFO RunnerServer] EstablishVssConnection
+[2023-12-15 01:18:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-15 01:18:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-15 01:18:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-15 01:18:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-15 01:18:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-15 01:18:07Z INFO MessageListener] VssConnection created
+[2023-12-15 01:18:07Z INFO Terminal] WRITE LINE: 
+[2023-12-15 01:18:07Z INFO Terminal] WRITE LINE: 
+[2023-12-15 01:18:08Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 01:18:08Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\projects\github-actions\actions-runner\.credentials_rsaparams
+[2023-12-15 01:18:09Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-12-15 01:18:09Z INFO MessageListener] Session created.
+[2023-12-15 01:18:09Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2023-12-15 01:18:09Z INFO Terminal] WRITE LINE: 2023-12-15 01:18:09Z: Listening for Jobs
+[2023-12-15 01:18:09Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-12-15 01:23:57Z INFO Terminal] WRITE LINE: Exiting...
+[2023-12-15 01:23:57Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-12-15 01:23:57Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-12-15 01:23:57Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-12-15 01:23:57Z WARN GitHubActionsService] GET request to https://pipelinesghubeus11.actions.githubusercontent.com/y1FT86VY5Sb27I64IaNciOD2APWIA1L9Hq70IhzF1SEfu8Wu20/_apis/distributedtask/pools/1/messages?sessionId=9297418b-8351-4a59-88c3-e787f3a92c27&status=Online&runnerVersion=2.311.0&os=Windows&architecture=X64 has been cancelled.
+[2023-12-15 01:23:57Z INFO MessageListener] Get next message has been cancelled.
+[2023-12-15 01:23:57Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-12-15 01:23:58Z INFO Terminal] WRITE LINE: Exiting...
+[2023-12-15 01:23:58Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-12-15 01:23:58Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-12-15 01:23:58Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-12-15 01:23:58Z INFO Listener] Runner execution been cancelled.
