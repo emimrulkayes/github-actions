@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "EMIMRULKAYES",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelinesghubeus11.actions.githubusercontent.com/y1FT86VY5Sb27I64IaNciOD2APWIA1L9Hq70IhzF1SEfu8Wu20/",
-  "gitHubUrl": "https://github.com/emimrulkayes/github-actions",
-  "workFolder": "_work"
-}
