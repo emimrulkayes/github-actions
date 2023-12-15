@@ -278,3 +278,34 @@
 [2023-12-15 02:46:34Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 7.
 [2023-12-15 02:46:34Z INFO JobNotification] Entering JobCompleted Notification
 [2023-12-15 02:46:34Z INFO JobNotification] Entering EndMonitor
+[2023-12-15 02:51:16Z ERR  MessageListener] Catch exception during get next message.
+[2023-12-15 02:51:16Z ERR  MessageListener] System.Security.Cryptography.CryptographicException: RSA key file C:\projects\github-actions\actions-runner\.credentials_rsaparams was not found
+   at GitHub.Runner.Listener.Configuration.RSAEncryptedFileKeyManager.GetKey()
+   at GitHub.Runner.Listener.MessageListener.GetMessageDecryptor(Aes aes, TaskAgentMessage message)
+   at GitHub.Runner.Listener.MessageListener.DecryptMessage(TaskAgentMessage message)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2023-12-15 02:51:16Z INFO MessageListener] Retriable exception: RSA key file C:\projects\github-actions\actions-runner\.credentials_rsaparams was not found
+[2023-12-15 02:51:16Z ERR  Terminal] WRITE ERROR: 2023-12-15 02:51:16Z: Runner connect error: RSA key file C:\projects\github-actions\actions-runner\.credentials_rsaparams was not found. Retrying until reconnected.
+[2023-12-15 02:51:16Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2023-12-15 02:51:16Z INFO RunnerServer] EstablishVssConnection
+[2023-12-15 02:51:16Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-15 02:51:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-15 02:51:17Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-15 02:51:17Z INFO MessageListener] Sleeping for 25.893 seconds before retrying.
+[2023-12-15 02:51:43Z INFO MessageListener] Message '8' received from session 'e2cccd16-b719-4ec5-8661-5ca44481e783'.
+[2023-12-15 02:51:43Z INFO Runner] Received job message of length 33280 from service, with hash 'b28d69c066e0c6fd6644022b8acc62a1a46827d762bb09a0690ac5c838abcdaa'
+[2023-12-15 02:51:44Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-12-15 02:51:44Z INFO JobDispatcher] Ensure WorkerDispatcher for job 6621f301-ad18-5d46-97dd-869f4cb20c65 run to finish, cancel any running job.
+[2023-12-15 02:51:44Z INFO JobDispatcher] Job request 6621f301-ad18-5d46-97dd-869f4cb20c65 processed succeed.
+[2023-12-15 02:51:44Z ERR  Terminal] WRITE ERROR: An error occurred: Unexpected character encountered while parsing value: y. Path '', line 0, position 0.
+[2023-12-15 02:51:44Z ERR  Listener] Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: y. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)
